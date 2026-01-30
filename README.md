@@ -134,11 +134,6 @@ terraform plan
 terraform apply
 ```
 
-Type `yes` when prompted.
-
-⏳ Deployment may take 5–10 minutes (Cloud SQL provisioning).
-
-
 
 ## 🧪 End-to-End Verification
 
